@@ -1,1 +1,1 @@
-# 32-bit-floating-ALU
+# 32-Bit-Floating-Point-Arithmetic-Logic-Unit
